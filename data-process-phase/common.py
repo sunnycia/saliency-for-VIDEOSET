@@ -1,0 +1,6 @@
+dataDir = "testResult"
+gazeinfoFlag = "Eye gaze information."
+eventinfoFlag = "Event information."
+dummyVON = "3sblack.avi"
+startFlag = "start playing."
+stopFlag = "stop playing."
